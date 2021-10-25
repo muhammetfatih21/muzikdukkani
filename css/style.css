@@ -1,0 +1,52 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+html{
+    font-family: 'Roboto',sans-serif;
+}
+
+.navbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+ .navbar li {
+    float: left;
+  }
+  
+ .navbar li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+ .navbar li a:hover {
+    background-color: #111;}
+
+.index{
+    text-align: center;
+}
+
+.index p {
+    margin-bottom: 15px;
+}
+
+.index ul{
+    font-size: 50px;
+    color: darkblue;
+}
+
+.product ul{
+    text-align: center;
+}
+
+img{
+    width: 400px;
+}
+
